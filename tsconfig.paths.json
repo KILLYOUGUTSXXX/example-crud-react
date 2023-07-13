@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@afx/components/*": ["./src/components/*"],
+        "@afx/controllers/*": ["./src/controllers/*"],
+        "@afx/interfaces/*": ["./src/interfaces/*"],
+        "@afx/views/*": ["./src/views/*"],
+        "@afx/utils/*": ["./src/utilities/*"],
+        "@afx/services/*": ["./src/services/*"]
+      }
+  }
+}
