@@ -23,4 +23,5 @@ Simple cash entry crud, using next + json server
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=next,nodejs,docker,bash,ts,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,nodejs,docker,bash,ts,js)](https://skillicons.dev)
+
