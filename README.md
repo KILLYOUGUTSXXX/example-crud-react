@@ -1,5 +1,5 @@
-# Cash Entry - Next Crud Examples
-Simple cash entry crud, using next + json server
+# Cash Entry - React Crud Examples
+Simple cash entry crud, using reactjs + json server
 
 
 ## Installation
